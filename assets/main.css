@@ -105,7 +105,7 @@ body {
 .btn {
   border: 2px solid var(--purp);
   border-radius: 40px;
-  padding: 13px 27px;
+  padding: 13px 17px;
   max-width: 170px;
   background-color: var(--white);
   cursor: pointer;
