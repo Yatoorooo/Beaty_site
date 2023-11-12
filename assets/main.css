@@ -130,13 +130,16 @@ body {
   background-color: var(--purp);
 }
 /* Header 3 */
+.header_3{
+  padding-bottom: 30px;
+}
 .links_content_2 {
   display: flex;
   align-items: center;
   list-style: none;
   gap: 40px;
   flex-wrap: wrap;
-  padding-bottom: 30px;
+ 
 }
 .txt_btn {
   color: var(--black);
@@ -401,7 +404,7 @@ body {
   display: flex;
   align-items: center;
   gap: 20px;
-  max-width: 22px;
+
 }
 .img_f_l {
   position: relative;
